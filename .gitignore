@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Byte-compiled / Python cache files
+__pycache__/
+*.pyc
+
+# Output exports
+*.json
+*.csv
+
+# VS Code directory (optional)
+.vscode/
